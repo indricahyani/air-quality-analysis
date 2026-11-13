@@ -6,6 +6,12 @@ Proyek ini merupakan analisis data kualitas udara di Beijing menggunakan dataset
 
 Analisis dilakukan untuk memahami pola konsentrasi polutan udara berdasarkan lokasi, waktu, dan kondisi cuaca. Hasil analisis kemudian disajikan dalam bentuk dashboard interaktif menggunakan Streamlit.
 
+## Link Dashboard
+
+Dashboard dapat diakses secara online melalui tautan berikut:
+
+**[Air Quality Analysis Dashboard](https://beijing-airquality-analysis-dashboard.streamlit.app/)**
+
 ## Tujuan Analisis
 
 Analisis ini bertujuan untuk menjawab beberapa pertanyaan bisnis berikut:
